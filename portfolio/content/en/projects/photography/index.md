@@ -5,4 +5,4 @@ weight: 5
 
 ## Sometimes I take pictures
 
-This project is about the pictures I take. Sometimes, they are pictures of cats.
+But... these pictures are not mine, this is just a placeholder for future projects 

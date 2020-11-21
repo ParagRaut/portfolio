@@ -10,12 +10,12 @@ resources:
 draft: false
 ---
 
-## Now 👆🏽 that's every developer's mindset
+### Now 👆🏽 that's every developer's mindset
 
-#### In my spare time I do sideprojects, some of them I loved doing are:
+In my spare time I do sideprojects, some of them I loved doing are:
 
-- ComicsAppWasm - It is a comic viewer app which I built while learning Blazor WebAssembly.
-   - Check it out live here: [ComicsAppWasm](https://paragraut.github.io/ComicsAppWasm/)
+- ComicsAppWasm - It is a comic viewer app which I built while learning Blazor WebAssembly.</br>
+  Check it out live here: [ComicsAppWasm](https://paragraut.github.io/ComicsAppWasm/)
 - ComicsApi - It is quite similar to above project, the only difference is it's an webapi and written using C# & Golang.
 - This portfolio/blog itself was a sideproject which is built with Hugo and Introduction theme, and there are a few more...
 
