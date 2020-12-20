@@ -10,4 +10,4 @@ resources:
 draft: false
 ---
 
-In KPN project I've played key role in creating POCs for open source test automation frameworks to enable DevOps practices and also implemented automated tests in CI/CD process for Java domain in KPN 
+In KPN project I've played key role in creating POCs for open source test automation frameworks to enable DevOps practices and also implemented automated tests in CI/CD process for Java domain. It was a big learning for me and helped me to grow in more intricate parts of framework and CI/CD process setup.
