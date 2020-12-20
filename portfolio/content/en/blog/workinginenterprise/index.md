@@ -1,5 +1,5 @@
 ---
-title: "Working in Enterprise"
+title: "Working in an Enterprise"
 date: 2020-12-20T11:56:46+01:00
 tags: ["general"]
 series: ["life"]
@@ -8,7 +8,7 @@ draft: false
 
 ![SnoopyAtWork](snoopyatwork.jpg)
 
-Working in enterprise has its own benefits and detriments. On one side you get exposed to a huge company wide technical/functional architecture and few too many business processes, and on other side once you get acquainted with it, you are mostly locked to "rigid/legacy/boring/meh/same o' same o'/non-bleeding edge/you name it" technology stack.
+Working in an enterprise has its own benefits and detriments. On one side you get exposed to a huge company wide technical/functional architecture and few too many business processes, and on other side once you get acquainted with it, you are mostly locked to "rigid/legacy/boring/meh/same o' same o'/non-bleeding edge/you name it" technology stack.
 
 Specifically for a tinkerer like me it gets booooooring really soon, then the un-ending struggle starts. I get stuck in a vicious circle of learning a new technology to keep up with the ever-changing world of tech and then not being able to apply it anywhere in your work (literally anywhere), and eventually loosing the grip on whatever I have learned.
 
