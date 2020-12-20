@@ -9,7 +9,7 @@ draft: false
 Hello world is first stepping stone while learning any new computer language.
 Writing hello world in go was very exciting for me as I tried my hand for the first time in systems programming language
 
-![Sample image](go-gopher.jpg)
+![GopherInWonderland](go-gopher.jpg)
 
 Code block:
 
