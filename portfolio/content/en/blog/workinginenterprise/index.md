@@ -31,6 +31,7 @@ This annoys me big time as there are a few viable options left for me to do such
 - But many mainstream/indie projects does require even deeper understanding of the subject matter/underlying technology in order to meaningfully contribute to it. I hope to find something like that which would become my gateway to OSS. 
 
 Yeah yeah, I agree that the things which are mentioned above can also happen in a large enterprise but chances are slimmer and very relative to one's personal experience.
+
 This might sound more like a rant but I just wanted to express whatever I’ve experienced and the post is totally opinion based. Meanwhile let me know what you think? Do you agree or disagree? 
 
 Anyway happy coding. 😇
