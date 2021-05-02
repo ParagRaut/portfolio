@@ -8,6 +8,7 @@ resources:
     - src: stores.jpg
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
+project_timeframe: "June 2016 - Now"
 ---
 
 ## I ♥️ T-Mobile
