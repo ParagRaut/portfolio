@@ -4,15 +4,15 @@ title = "My Portfolio & Blog"
 
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                     # Default language for multilingual sites
-#disqusshortname                  = ""                      # https://gohugo.io/content-management/comments
+disqusshortname                  = "paragraut"                      # https://gohugo.io/content-management/comments
 #googleAnalytics                  = ""                      # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "light"                  # Choose "light" or "dark" or "auto"
     favicon                      = "/img/favicon.ico"       # Path to favicon file
-    showRSSButton                = false                    # Show rss button in navigation
-    fadeIn                       = true                     # Turn on/off the fade-in effect
-    fadeInIndex                  = false                    # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    showRSSButton                = true                     # Show rss button in navigation
+    fadeIn                       = false                    # Turn on/off the fade-in effect
+    fadeInIndex                  = true                     # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "parag.raut@outlook.com" # E-mail address for contact section
     # customCSS                  = ["foo.css"]              # Include custom css files placed under assets/
