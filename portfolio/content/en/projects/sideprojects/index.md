@@ -20,6 +20,7 @@ In my spare time I do sideprojects, some of them I loved doing are:
 - This portfolio/blog itself was a sideproject which is built with Hugo and Introduction theme, and there are a few more...
 
 Checkout my github repos @ [GITHUB/ParagRaut](https://github.com/ParagRaut)
+[![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paragraut&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 Image credit [@vincentdnl](https://twitter.com/vincentdnl)
 
