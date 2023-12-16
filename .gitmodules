@@ -1,3 +1,3 @@
-[submodule "portfolio/themes/introduction"]
-	path = portfolio/themes/introduction
+[submodule "src/themes/introduction"]
+	path = src/themes/introduction
 	url = https://github.com/victoriadrake/hugo-theme-introduction.git
