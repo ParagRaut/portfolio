@@ -1,0 +1,21 @@
+.DS_Store
+
+# Created by https://www.toptal.com/developers/gitignore/api/hugo
+# Edit at https://www.toptal.com/developers/gitignore?templates=hugo
+
+### Hugo ###
+# Generated files by hugo
+/src/public/
+/src/resources/_gen/
+/src/assets/jsconfig.json
+/src/hugo_stats.json
+
+# Executable may be added to repository
+/src/hugo.exe
+/src/hugo.darwin
+/src/hugo.linux
+
+# Temporary lock file while building
+/src/.hugo_build.lock
+
+# End of https://www.toptal.com/developers/gitignore/api/hugo
