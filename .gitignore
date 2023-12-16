@@ -1,5 +1,9 @@
 .DS_Store
 
+/src/node_modules
+/src/package.json
+/src/package-lock.json
+
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
 
