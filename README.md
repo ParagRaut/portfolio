@@ -1,6 +1,6 @@
 # Portfolio
 
-[![Publish Portfolio](https://github.com/ParagRaut/myportfolio/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ParagRaut/myportfolio/actions/workflows/main.yml)
+[![Publish Portfolio](https://github.com/ParagRaut/myportfolio/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ParagRaut/portfolio/actions/workflows/main.yml)
 
 My portfolio and blog created using Hugo and Introduction theme by [Victoria Drake](https://victoria.dev/)
 
