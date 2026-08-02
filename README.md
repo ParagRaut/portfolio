@@ -6,4 +6,4 @@ My portfolio and blog created using Hugo and Introduction theme by [Victoria Dra
 
 It also uses Github Actions to automatically pull and deploy website to Github Pages.
 
-You can check it live here : [paragraut.me](https://paragraut.me)
+You can check it live here : [Portfolio]([https://paragraut.me](https://paragraut.github.io/portfolio/))
