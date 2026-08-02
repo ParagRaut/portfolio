@@ -1,5 +1,5 @@
 baseURL = "https://paragraut.github.io/portfolio/"
-languageCode = "en-us"
+locale = "en-us"
 title = "My Portfolio & Blog"
 
 theme                            = "introduction"
@@ -93,8 +93,8 @@ DefaultContentLanguage           = "en"                     # Default language f
 
 [languages]
     [languages.en]
-        languageName     = "English"
-        languageCode     = "en-us"
+        label            = "English"
+        locale           = "en-us"
         contentDir       = "content/en"
         weight           = 0
         title            = "Parag Raut Portfolio"
