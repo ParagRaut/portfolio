@@ -14,8 +14,7 @@ draft: false
 
 In my spare time I do side-projects, some of them I loved doing are:
 
-- ComicsAppWasm - It is a comic viewer app which I built while learning Blazor WebAssembly.
-- ComicsApi - It is quite similar to above project, the only difference is it's an webapi and written using C# & Golang.
+- ComicsApi - It is a comic viewer webapi written using C# & Golang.
 - This portfolio/blog itself was a side-project which is built with Hugo and Introduction theme, and there are a few more...
 
 Checkout my github repos @ [GITHUB/ParagRaut](https://github.com/ParagRaut)
