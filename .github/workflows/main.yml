@@ -28,6 +28,5 @@ jobs:
       - name: Publish Site
         uses: chabad360/hugo-gh-pages@master
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN }}          
-          cname: paragraut.me # Or anything else
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
           siteDir: /github/workspace/src
