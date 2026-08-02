@@ -1,0 +1,7 @@
+{{/* Crisp SVG favicon for modern browsers, with .ico fallback for older ones */}}
+<link rel="icon" type="image/svg+xml" href="{{ "img/favicon.svg" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "img/favicon.svg" | relURL }}">
+{{ with .Site.Params.favicon }}
+<link rel="icon" type="image/x-icon" href="{{ . | relURL }}">
+<link rel="shortcut icon" href="{{ . | relURL }}">
+{{ end }}
