@@ -10,4 +10,4 @@ resources:
 project_timeframe: "June 2015 - May 2016"
 ---
 
-In KPN project I've played key role in creating POCs for open source test automation frameworks to enable DevOps practices and also implemented automated tests in CI/CD process in Java ecosystem. It was a big learning opportunity for me and helped me to grow in more intricate parts of framework and CI/CD process setup.
+At KPN, I played a key role in building proof-of-concepts for open-source test automation frameworks to enable DevOps practices, and implemented automated tests within the CI/CD pipeline in the Java ecosystem. It was a fantastic learning opportunity that helped me grow into the more intricate parts of framework design and CI/CD setup.

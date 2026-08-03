@@ -3,6 +3,6 @@ title: "Projects"
 weight: 20
 ---
 
-Working on different projects is really something I enjoy doing, you get to learn a lot and experience always comes in handy for future projects. 
+Working on a variety of projects is something I genuinely enjoy — there's always something new to learn, and the experience always pays off down the line.
 
->> Here are some of my projects.
+>> Here are a few of the projects I've worked on.

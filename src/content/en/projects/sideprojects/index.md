@@ -12,12 +12,12 @@ draft: false
 
 ### Now 👆🏽 that's every developer's mindset
 
-In my spare time I do side-projects, some of them I loved doing are:
+In my spare time I like to tinker with side-projects. A few I've really enjoyed building:
 
-- ComicsApi - It is a comic viewer webapi written using C# & Golang.
-- This portfolio/blog itself was a side-project which is built with Hugo and Introduction theme, and there are a few more...
+- **ComicsApp** — an infinite-scroll comic strip viewer, built with Blazor.
+- **This portfolio/blog** — itself a side-project, built with Hugo and the Introduction theme — and there are a few more in the works.
 
-Checkout my github repos @ [GITHUB/ParagRaut](https://github.com/ParagRaut)
+Check out my repos over on [GitHub/ParagRaut](https://github.com/ParagRaut).
 [![Parag's GitHub stats](https://github-stats-extended.vercel.app/api?username=paragraut&show_icons=true&theme=great-gatsby&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
 
 Image credit [@vincentdnl](https://twitter.com/vincentdnl)
