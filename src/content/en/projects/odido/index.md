@@ -5,7 +5,7 @@ weight: 1
 external_link: ""
 draft: false
 resources:
-    - src: odido.png
+    - src: stores.jpg
       params:
           weight: -100
 project_timeframe: "June 2016 - Now"

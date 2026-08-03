@@ -4,7 +4,7 @@ date: 2023-12-16T12:47:14+01:00
 weight: 2
 external_link: ""
 resources:
-    - src: kpn-store.jpg
+    - src: kpn1.jpg
       params:
           weight: -100
 project_timeframe: "June 2015 - May 2016"
