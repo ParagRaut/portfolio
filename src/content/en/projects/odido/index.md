@@ -11,7 +11,7 @@ resources:
 project_timeframe: "June 2016 - Now"
 ---
 
-## I ♥️ Odido
+## Odido
 
 I've been working for Odido NL B.V. (formerly T-Mobile NL B.V.) since June 2016. My development work focuses on telecom-domain applications — customer-facing products like the self-service portal and web APIs for mobile apps, as well as internal tools for business and customer-care teams.
 

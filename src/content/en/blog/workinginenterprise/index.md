@@ -47,4 +47,4 @@ Looking back, this is less a complaint than a reflection — entirely opinion ba
 
 What about you? Do you feel the same pull, or have you found a way to balance stability with growth? I'd genuinely love to hear it.
 
-Anyway, happy coding. 😇
+Happy coding.

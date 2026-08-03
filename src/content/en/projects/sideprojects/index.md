@@ -10,7 +10,7 @@ resources:
 draft: false
 ---
 
-### Now 👆🏽 that's every developer's mindset
+### Side Projects
 
 In my spare time I like to tinker with side-projects. A few I've really enjoyed building:
 
@@ -18,7 +18,7 @@ In my spare time I like to tinker with side-projects. A few I've really enjoyed 
 - **This portfolio/blog** — itself a side-project, built with Hugo and the Introduction theme — and there are a few more in the works.
 
 Check out my repos over on [GitHub/ParagRaut](https://github.com/ParagRaut).
-[![Parag's GitHub stats](https://github-stats-extended.vercel.app/api?username=paragraut&show_icons=true&theme=great-gatsby&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
+[![Parag's GitHub stats](https://github-stats-extended.vercel.app/api?username=paragraut&show_icons=true&hide_border=true&title_color=00b8d4&icon_color=00b8d4&text_color=4a4a4a&bg_color=ffffff&disable_animations=true)](https://github.com/stats-organization/github-stats-extended)
 
 Image credit [@vincentdnl](https://twitter.com/vincentdnl)
 

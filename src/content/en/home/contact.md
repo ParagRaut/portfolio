@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-You can contact me on following email
+You can reach me by email at the address below.
