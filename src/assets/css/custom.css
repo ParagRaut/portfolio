@@ -1,0 +1,4 @@
+/* Add spacing between project card titles and their timeframe */
+.card-content h1 {
+    margin-bottom: 0.5rem;
+}
